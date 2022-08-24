@@ -32,7 +32,7 @@ public class Netflix extends AppCompatActivity {
     NetworkService service = Application.getRetrofit().create(NetworkService.class);
     NetworkService jsonService = Application.getRetrofit2().create(NetworkService.class);
 
-
+dfgdfgdfg
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
